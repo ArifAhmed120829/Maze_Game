@@ -10,18 +10,41 @@ public class helpcolitide2 {
 		Queue<Integer> queue4 = new ArrayDeque<>();
 		Queue<Integer> queue5 = new ArrayDeque<>();
 		
-		int[] arr = {3,8};
-		ArrayList<Integer> bag = new ArrayList<>();
-		bag.add(4);
-		bag.add(5);
-		ArrayList<Integer> list = new ArrayList<>();
-		list.add(-1);//-1
-		list.add(1);//+1
-		list.add(2);// /2
-		list.add(2);// *2
-		list.add(3);// *3
+		queue1.add(1);
+		queue1.add(2);
+		queue1.add(3);
+		queue1.add(4);
+		queue1.add(5);
 		
-		//every queue belongs to children from list ** may 3, 16:23
+		queue2.add(6);
+		queue2.add(7);
+		queue2.add(8);
+		queue2.add(9);
+		queue2.add(10);
+		
+		queue3.add(11);
+		queue3.add(12);
+		queue3.add(13);
+		queue3.add(14);
+		queue3.add(15);
+		
+		queue4.add(16);
+		queue4.add(17);
+		queue4.add(18);
+		queue4.add(19);
+		queue4.add(20);
+		
+		queue5.add(21);
+		queue5.add(22);
+		queue5.add(23);
+		queue5.add(24);
+		queue5.add(25);
+		
+		
+		
+		
+		
+		
 		
 		
 		
